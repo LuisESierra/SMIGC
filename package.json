@@ -1,0 +1,30 @@
+{
+  "name": "smigc-redesign",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server/index.js",
+    "start": "node server/index.js --production",
+    "build": "vite build",
+    "test": "node --test tests/game.test.js",
+    "test:e2e": "playwright test",
+    "verify:original": "python tools/audit_original.py --verify"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "lucide-react": "^1.48.0",
+    "qrcode": "^1.5.4",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-router-dom": "^7.18.4",
+    "socket.io": "^4.8.3",
+    "socket.io-client": "^4.8.3",
+    "vite": "^8.3.1"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "@playwright/test": "^1.63.0",
+    "prettier": "^3.9.9"
+  }
+}

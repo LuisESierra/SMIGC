@@ -1,0 +1,830 @@
+[
+  {
+    "path": "platzi.webp",
+    "bytes": 1008
+  },
+  {
+    "path": "EnviandoCarga/cargando.png",
+    "bytes": 22989
+  },
+  {
+    "path": "ErrorCarga/error.png",
+    "bytes": 2321
+  },
+  {
+    "path": "Mapa/cargando.png",
+    "bytes": 22989
+  },
+  {
+    "path": "SeleccionCargando/cargando.png",
+    "bytes": 22989
+  },
+  {
+    "path": "SeleccionCargando/listo.png",
+    "bytes": 1760
+  },
+  {
+    "path": "SentInformacion/sent.png",
+    "bytes": 2781
+  },
+  {
+    "path": "Traductor/anagramas/alfarosre.png",
+    "bytes": 4844
+  },
+  {
+    "path": "Traductor/anagramas/batosil.png",
+    "bytes": 4649
+  },
+  {
+    "path": "Traductor/anagramas/blospue.png",
+    "bytes": 4919
+  },
+  {
+    "path": "Traductor/anagramas/braso.png",
+    "bytes": 4371
+  },
+  {
+    "path": "Traductor/anagramas/clanov.png",
+    "bytes": 4728
+  },
+  {
+    "path": "Traductor/anagramas/dosniso.png",
+    "bytes": 4782
+  },
+  {
+    "path": "Traductor/anagramas/gadole.png",
+    "bytes": 4872
+  },
+  {
+    "path": "Traductor/anagramas/incianfan.png",
+    "bytes": 4683
+  },
+  {
+    "path": "Traductor/anagramas/latnesvo.png",
+    "bytes": 4956
+  },
+  {
+    "path": "Traductor/anagramas/loshi.png",
+    "bytes": 4069
+  },
+  {
+    "path": "Traductor/anagramas/masfor.png",
+    "bytes": 4509
+  },
+  {
+    "path": "Traductor/anagramas/mrafo.png",
+    "bytes": 4399
+  },
+  {
+    "path": "Traductor/anagramas/naur.png",
+    "bytes": 3849
+  },
+  {
+    "path": "Traductor/anagramas/ouhs.png",
+    "bytes": 4237
+  },
+  {
+    "path": "Traductor/anagramas/potiem.png",
+    "bytes": 4489
+  },
+  {
+    "path": "Traductor/anagramas/riatohis.png",
+    "bytes": 4573
+  },
+  {
+    "path": "Traductor/anagramas/tear.png",
+    "bytes": 3989
+  },
+  {
+    "path": "Traductor/anagramas/tefuen.png",
+    "bytes": 4370
+  },
+  {
+    "path": "Traductor/anagramas/toriahis.png",
+    "bytes": 4621
+  },
+  {
+    "path": "Traductor/anagramas/tuaresri.png",
+    "bytes": 4604
+  },
+  {
+    "path": "Traductor/anagramas/tuariles.png",
+    "bytes": 4553
+  },
+  {
+    "path": "Traductor/anagramas/turascul.png",
+    "bytes": 4633
+  },
+  {
+    "path": "Traductor/anagramas/zacru.png",
+    "bytes": 4097
+  },
+  {
+    "path": "Traductor/anagramas/zaspie.png",
+    "bytes": 4565
+  },
+  {
+    "path": "Traductor/audios/sonido.exito.pares.mp3",
+    "bytes": 25965
+  },
+  {
+    "path": "Traductor/audios/sonido.exito.pares2.mp3",
+    "bytes": 17325
+  },
+  {
+    "path": "Traductor/audios/sonido.tab (1).mp3",
+    "bytes": 18285
+  },
+  {
+    "path": "Traductor/audios/sonidoincorrecto.mp3",
+    "bytes": 26925
+  },
+  {
+    "path": "Traductor/audios/sonidotab.mp3",
+    "bytes": 18285
+  },
+  {
+    "path": "Traductor/resources/traducir-basic-16.png",
+    "bytes": 3782
+  },
+  {
+    "path": "Traductor/resources/traducir-basic-17.png",
+    "bytes": 3418
+  },
+  {
+    "path": "Traductor/simbolos/Candado.png",
+    "bytes": 4036
+  },
+  {
+    "path": "Traductor/simbolos/logoAntropologo.png",
+    "bytes": 70224
+  },
+  {
+    "path": "Traductor/simbolos/logoGuia.png",
+    "bytes": 74391
+  },
+  {
+    "path": "Traductor/simbolos/logoHuaquero.png",
+    "bytes": 57184
+  },
+  {
+    "path": "Traductor/simbolos/logoInterprete.png",
+    "bytes": 62123
+  },
+  {
+    "path": "Traductor/simbolos/palabra.png",
+    "bytes": 4399
+  },
+  {
+    "path": "Traductor/simbolos/simbolo1.png",
+    "bytes": 25158
+  },
+  {
+    "path": "Traductor/simbolos/simbolo10.png",
+    "bytes": 11720
+  },
+  {
+    "path": "Traductor/simbolos/simbolo11.png",
+    "bytes": 12738
+  },
+  {
+    "path": "Traductor/simbolos/simbolo12.png",
+    "bytes": 12162
+  },
+  {
+    "path": "Traductor/simbolos/simbolo13.png",
+    "bytes": 12392
+  },
+  {
+    "path": "Traductor/simbolos/simbolo14.png",
+    "bytes": 13155
+  },
+  {
+    "path": "Traductor/simbolos/simbolo15.png",
+    "bytes": 18618
+  },
+  {
+    "path": "Traductor/simbolos/simbolo16.png",
+    "bytes": 16549
+  },
+  {
+    "path": "Traductor/simbolos/simbolo17.png",
+    "bytes": 11180
+  },
+  {
+    "path": "Traductor/simbolos/simbolo18.png",
+    "bytes": 11704
+  },
+  {
+    "path": "Traductor/simbolos/simbolo19.png",
+    "bytes": 14289
+  },
+  {
+    "path": "Traductor/simbolos/simbolo2.png",
+    "bytes": 11692
+  },
+  {
+    "path": "Traductor/simbolos/simbolo20.png",
+    "bytes": 11192
+  },
+  {
+    "path": "Traductor/simbolos/simbolo3.png",
+    "bytes": 11831
+  },
+  {
+    "path": "Traductor/simbolos/simbolo4.png",
+    "bytes": 9928
+  },
+  {
+    "path": "Traductor/simbolos/simbolo5.jpg",
+    "bytes": 25221
+  },
+  {
+    "path": "Traductor/simbolos/simbolo5.png",
+    "bytes": 13653
+  },
+  {
+    "path": "Traductor/simbolos/simbolo6.jpg",
+    "bytes": 26010
+  },
+  {
+    "path": "Traductor/simbolos/simbolo6.png",
+    "bytes": 14955
+  },
+  {
+    "path": "Traductor/simbolos/simbolo7.jpg",
+    "bytes": 24414
+  },
+  {
+    "path": "Traductor/simbolos/simbolo7.png",
+    "bytes": 12788
+  },
+  {
+    "path": "Traductor/simbolos/simbolo8.jpg",
+    "bytes": 29734
+  },
+  {
+    "path": "Traductor/simbolos/simbolo8.png",
+    "bytes": 18231
+  },
+  {
+    "path": "Traductor/simbolos/simbolo9.png",
+    "bytes": 13428
+  },
+  {
+    "path": "Traductor/simbolos/simboloneutro.png",
+    "bytes": 9784
+  },
+  {
+    "path": "Traductor/switch/off.png",
+    "bytes": 872
+  },
+  {
+    "path": "Traductor/switch/on.png",
+    "bytes": 993
+  },
+  {
+    "path": "Traductor/anagramas/anagramasHistoria1/alfarosre.png",
+    "bytes": 4844
+  },
+  {
+    "path": "Traductor/anagramas/anagramasHistoria1/potiem.png",
+    "bytes": 4489
+  },
+  {
+    "path": "Traductor/anagramas/anagramasHistoria1/tear.png",
+    "bytes": 3989
+  },
+  {
+    "path": "Traductor/anagramas/anagramasHistoria1/tuariles.png",
+    "bytes": 4553
+  },
+  {
+    "path": "Traductor/Acumulador/Iconos/iconoBloqueo.png",
+    "bytes": 2037
+  },
+  {
+    "path": "Traductor/Acumulador/Iconos/iconoSimbolo.png",
+    "bytes": 3093
+  },
+  {
+    "path": "TematicaMuseo2/resources/Cuencos2.mp4",
+    "bytes": 18719261
+  },
+  {
+    "path": "TematicaMuseo/resources/Cuencos1.mp4",
+    "bytes": 27515661
+  },
+  {
+    "path": "SeleccionCargando/logos/logoAntropologo.png",
+    "bytes": 70224
+  },
+  {
+    "path": "SeleccionCargando/logos/logoAntropologoBN.png",
+    "bytes": 51707
+  },
+  {
+    "path": "SeleccionCargando/logos/logoGuia.png",
+    "bytes": 74391
+  },
+  {
+    "path": "SeleccionCargando/logos/logoGuiaBN.png",
+    "bytes": 55050
+  },
+  {
+    "path": "SeleccionCargando/logos/logoHuaquero.png",
+    "bytes": 57184
+  },
+  {
+    "path": "SeleccionCargando/logos/logoHuaqueroBN.png",
+    "bytes": 50005
+  },
+  {
+    "path": "SeleccionCargando/logos/logoInterprete.png",
+    "bytes": 62123
+  },
+  {
+    "path": "SeleccionCargando/logos/logoInterpreteBN.png",
+    "bytes": 48072
+  },
+  {
+    "path": "RolesMuseo/resources/AntropologoLogo.png",
+    "bytes": 69841
+  },
+  {
+    "path": "RolesMuseo/resources/FondoRoles.png",
+    "bytes": 13394
+  },
+  {
+    "path": "RolesMuseo/resources/GuiaLogo.png",
+    "bytes": 73729
+  },
+  {
+    "path": "RolesMuseo/resources/HuaqueroLogo.png",
+    "bytes": 57004
+  },
+  {
+    "path": "RolesMuseo/resources/InterpreteLogo.png",
+    "bytes": 61485
+  },
+  {
+    "path": "RolesMuseo/resources/NarracionAntro.mp3",
+    "bytes": 212533
+  },
+  {
+    "path": "RolesMuseo/resources/NarracionGuia.mp3",
+    "bytes": 415070
+  },
+  {
+    "path": "RolesMuseo/resources/NarracionHuaquero.mp3",
+    "bytes": 401105
+  },
+  {
+    "path": "RolesMuseo/resources/NarracionInterprete.mp3",
+    "bytes": 266090
+  },
+  {
+    "path": "RevisarCelular/resource/Celular.png",
+    "bytes": 1176
+  },
+  {
+    "path": "QrMuseo/resources/QR.png",
+    "bytes": 24481
+  },
+  {
+    "path": "QrMuseo/resources/QrMuseo.png",
+    "bytes": 13394
+  },
+  {
+    "path": "QrMuseo/resources/Refresh.png",
+    "bytes": 2784
+  },
+  {
+    "path": "Picker/logos/logoAntropologo.png",
+    "bytes": 70224
+  },
+  {
+    "path": "Picker/logos/logoAntropologoBN.png",
+    "bytes": 51707
+  },
+  {
+    "path": "Picker/logos/logoGuia.png",
+    "bytes": 74391
+  },
+  {
+    "path": "Picker/logos/logoGuiaBN.png",
+    "bytes": 55050
+  },
+  {
+    "path": "Picker/logos/logoHuaquero.png",
+    "bytes": 57184
+  },
+  {
+    "path": "Picker/logos/logoHuaqueroBN.png",
+    "bytes": 50005
+  },
+  {
+    "path": "Picker/logos/logoInterprete.png",
+    "bytes": 62123
+  },
+  {
+    "path": "Picker/logos/logoInterpreteBN.png",
+    "bytes": 48072
+  },
+  {
+    "path": "PantallaMuseo/resources/Bienvenida.png",
+    "bytes": 1442647
+  },
+  {
+    "path": "PantallaMuseo/resources/BotonImagen.png",
+    "bytes": 28295
+  },
+  {
+    "path": "PantallaMuseo/resources/BotonImagen2.png",
+    "bytes": 26404
+  },
+  {
+    "path": "PantallaMuseo/resources/BotonImagen3.png",
+    "bytes": 25528
+  },
+  {
+    "path": "PantallaMuseo/resources/BotonImagen4.png",
+    "bytes": 28408
+  },
+  {
+    "path": "PantallaMuseo/resources/BotonImagen5.png",
+    "bytes": 28642
+  },
+  {
+    "path": "PantallaMuseo/resources/BotonImagen6.png",
+    "bytes": 28648
+  },
+  {
+    "path": "PantallaMuseo/resources/BotonImagen7.png",
+    "bytes": 28674
+  },
+  {
+    "path": "PantallaMuseo/resources/BotonImagen8.png",
+    "bytes": 27067
+  },
+  {
+    "path": "MuseoTabla/resources/logoAntropologo.png",
+    "bytes": 69841
+  },
+  {
+    "path": "MuseoTabla/resources/logoGuia.png",
+    "bytes": 73614
+  },
+  {
+    "path": "MuseoTabla/resources/logoHuaquero.png",
+    "bytes": 57221
+  },
+  {
+    "path": "MuseoTabla/resources/logoInterprete.png",
+    "bytes": 61645
+  },
+  {
+    "path": "Modal/resources/closeIcon.png",
+    "bytes": 1490
+  },
+  {
+    "path": "Modal/resources/help-icon.png",
+    "bytes": 849
+  },
+  {
+    "path": "Modal/resources/tutorial/tutorial1.png",
+    "bytes": 58567
+  },
+  {
+    "path": "Modal/resources/tutorial/tutorial2.png",
+    "bytes": 103349
+  },
+  {
+    "path": "Modal/resources/tutorial/tutorial3.png",
+    "bytes": 55796
+  },
+  {
+    "path": "Modal/resources/tutorial/tutorial4.png",
+    "bytes": 127990
+  },
+  {
+    "path": "Mapa/audios/sonidopuntos.mp3",
+    "bytes": 35565
+  },
+  {
+    "path": "Mapa/resources/lupa.png",
+    "bytes": 30047
+  },
+  {
+    "path": "Mapa/resources/lupahover.png",
+    "bytes": 31317
+  },
+  {
+    "path": "Mapa/resources/mapamuseolili.png",
+    "bytes": 5013
+  },
+  {
+    "path": "Mapa/resources/pin-12.png",
+    "bytes": 399
+  },
+  {
+    "path": "Mapa/resources/pin-13.png",
+    "bytes": 638
+  },
+  {
+    "path": "Mapa/resources/pin-14.png",
+    "bytes": 916
+  },
+  {
+    "path": "Mapa/resources/TopNavigation.png",
+    "bytes": 626
+  },
+  {
+    "path": "JuegoHuaquero/resources/Cargando.png",
+    "bytes": 22989
+  },
+  {
+    "path": "JuegoHuaquero/resources/Reloj.png",
+    "bytes": 3343
+  },
+  {
+    "path": "JuegoHuaquero/resources/SimboloNo.png",
+    "bytes": 2030
+  },
+  {
+    "path": "JuegoHuaquero/resources/SimboloSi.png",
+    "bytes": 3028
+  },
+  {
+    "path": "JuegoHuaquero/resources/TopNavigation.png",
+    "bytes": 626
+  },
+  {
+    "path": "Introduccion/resources/iconoguia.png",
+    "bytes": 1657
+  },
+  {
+    "path": "Introduccion/resources/animacionAntropologo/Frame 62.png",
+    "bytes": 5365
+  },
+  {
+    "path": "Introduccion/resources/animacionAntropologo/Frame 63.png",
+    "bytes": 5766
+  },
+  {
+    "path": "Introduccion/resources/animacionAntropologo/Frame 65.png",
+    "bytes": 5954
+  },
+  {
+    "path": "Introduccion/resources/animacionAntropologo/Frame 66.png",
+    "bytes": 6055
+  },
+  {
+    "path": "Introduccion/resources/animacionAntropologo/Frame 67.png",
+    "bytes": 6219
+  },
+  {
+    "path": "Introduccion/resources/animacionAntropologo/Frame 68.png",
+    "bytes": 6306
+  },
+  {
+    "path": "Introduccion/resources/animacionAntropologo/Frame 69.png",
+    "bytes": 6367
+  },
+  {
+    "path": "Introduccion/resources/animacionAntropologo/Frame 70.png",
+    "bytes": 6643
+  },
+  {
+    "path": "Introduccion/resources/animacionHuaquero/Frame 52.png",
+    "bytes": 64306
+  },
+  {
+    "path": "Introduccion/resources/animacionHuaquero/Frame 53.png",
+    "bytes": 79292
+  },
+  {
+    "path": "Introduccion/resources/animacionHuaquero/Frame 54.png",
+    "bytes": 75284
+  },
+  {
+    "path": "Introduccion/resources/animacionInterprete/Frame 55.png",
+    "bytes": 29893
+  },
+  {
+    "path": "Introduccion/resources/animacionInterprete/Frame 56.png",
+    "bytes": 29991
+  },
+  {
+    "path": "Introduccion/resources/animacionInterprete/Frame 57.png",
+    "bytes": 29567
+  },
+  {
+    "path": "Introduccion/resources/animacionInterprete/Frame 58.png",
+    "bytes": 11464
+  },
+  {
+    "path": "Introduccion/resources/animacionInterprete/Frame 59.png",
+    "bytes": 29907
+  },
+  {
+    "path": "Introduccion/resources/animacionInterprete/Frame 60.png",
+    "bytes": 25446
+  },
+  {
+    "path": "Introduccion/resources/animacionInterprete/Frame 61.png",
+    "bytes": 8767
+  },
+  {
+    "path": "Introduccion/resources/animacionmapa/Frame 49.png",
+    "bytes": 9245
+  },
+  {
+    "path": "Introduccion/resources/animacionmapa/Frame 50.png",
+    "bytes": 8262
+  },
+  {
+    "path": "Introduccion/resources/animacionmapa/Frame 51.png",
+    "bytes": 7680
+  },
+  {
+    "path": "InputCodigo/resources/museolili.jpg",
+    "bytes": 37194
+  },
+  {
+    "path": "InputCodigo/resources/museolili.png",
+    "bytes": 154664
+  },
+  {
+    "path": "induccion/resources/induccion.mp4",
+    "bytes": 60919116
+  },
+  {
+    "path": "induccion/resources/induccion.png",
+    "bytes": 13394
+  },
+  {
+    "path": "Header/Reloj/Reloj1.png",
+    "bytes": 92335
+  },
+  {
+    "path": "Header/Reloj/Reloj10.png",
+    "bytes": 35692
+  },
+  {
+    "path": "Header/Reloj/Reloj11.png",
+    "bytes": 23689
+  },
+  {
+    "path": "Header/Reloj/Reloj12.png",
+    "bytes": 22715
+  },
+  {
+    "path": "Header/Reloj/Reloj13.png",
+    "bytes": 21200
+  },
+  {
+    "path": "Header/Reloj/Reloj14.png",
+    "bytes": 13444
+  },
+  {
+    "path": "Header/Reloj/Reloj15.png",
+    "bytes": 1661
+  },
+  {
+    "path": "Header/Reloj/Reloj2.png",
+    "bytes": 100381
+  },
+  {
+    "path": "Header/Reloj/Reloj3.png",
+    "bytes": 96119
+  },
+  {
+    "path": "Header/Reloj/Reloj4.png",
+    "bytes": 87344
+  },
+  {
+    "path": "Header/Reloj/Reloj5.png",
+    "bytes": 80869
+  },
+  {
+    "path": "Header/Reloj/Reloj6.png",
+    "bytes": 68525
+  },
+  {
+    "path": "Header/Reloj/Reloj7.png",
+    "bytes": 61383
+  },
+  {
+    "path": "Header/Reloj/Reloj8.png",
+    "bytes": 54212
+  },
+  {
+    "path": "Header/Reloj/Reloj9.png",
+    "bytes": 43867
+  },
+  {
+    "path": "Header/resources/Back-Button.png",
+    "bytes": 612
+  },
+  {
+    "path": "FraseMuseo/audio/sonidoCorrecto.mp3",
+    "bytes": 46125
+  },
+  {
+    "path": "FraseMuseo/audio/sonidotiempoacaba.mp3",
+    "bytes": 156525
+  },
+  {
+    "path": "FraseMuseo/resource/infeizq.png",
+    "bytes": 4666
+  },
+  {
+    "path": "FraseMuseo/resource/sonidoincorrecto.mp3",
+    "bytes": 26925
+  },
+  {
+    "path": "FraseMuseo/resource/supder.png",
+    "bytes": 929
+  },
+  {
+    "path": "FraseMuseo/videosSemanas/Alcarrazas_1.mp4",
+    "bytes": 5250779
+  },
+  {
+    "path": "FraseMuseo/videosSemanas/Cuencos_1.mp4",
+    "bytes": 4390608
+  },
+  {
+    "path": "FraseMuseo/videosSemanas/Silbatos_1.mp4",
+    "bytes": 9534823
+  },
+  {
+    "path": "FraseMuseo/videosSemanas/Urnas_1.mp4",
+    "bytes": 5518965
+  },
+  {
+    "path": "FraseMuseo/videosSemanas/Volantes_1.mp4",
+    "bytes": 3461089
+  },
+  {
+    "path": "EstadoMuseo/resources/AntropologoLogo.png",
+    "bytes": 69841
+  },
+  {
+    "path": "EstadoMuseo/resources/AntropologoNo.png",
+    "bytes": 53132
+  },
+  {
+    "path": "EstadoMuseo/resources/Estado.png",
+    "bytes": 13394
+  },
+  {
+    "path": "EstadoMuseo/resources/FondoRoles.png",
+    "bytes": 13394
+  },
+  {
+    "path": "EstadoMuseo/resources/GuiaLogo.png",
+    "bytes": 73729
+  },
+  {
+    "path": "EstadoMuseo/resources/GuiaNo.png",
+    "bytes": 55981
+  },
+  {
+    "path": "EstadoMuseo/resources/HuaqueroLogo.png",
+    "bytes": 57004
+  },
+  {
+    "path": "EstadoMuseo/resources/HuaqueroNo.png",
+    "bytes": 51164
+  },
+  {
+    "path": "EstadoMuseo/resources/InterpreteLogo.png",
+    "bytes": 61485
+  },
+  {
+    "path": "EstadoMuseo/resources/InterpreteNo.png",
+    "bytes": 48951
+  },
+  {
+    "path": "Bloqueo/audio/sonidoCorrecto.mp3",
+    "bytes": 33645
+  },
+  {
+    "path": "Bloqueo/audio/sonidoIncorrecto.mp3",
+    "bytes": 34605
+  },
+  {
+    "path": "Bloqueo/resources/Bloqueo_IMG.png",
+    "bytes": 2225
+  },
+  {
+    "path": "AnimacionMuseo/resources/Animacion.png",
+    "bytes": 13394
+  },
+  {
+    "path": "AnimacionMuseo/resources/Contextualizacin.mp4",
+    "bytes": 18096759
+  }
+]
