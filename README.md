@@ -2,8 +2,6 @@
 
 Recreación nueva e independiente de la experiencia colaborativa de SMIGC. Conserva cuatro participantes, sala compartida, roles, mapa, búsqueda de símbolos, memoria, traducciones, anagramas, frase final, videos, resultados y valoración. Interfaz inspirada en el sitio oficial del Museo Lilí, con colores y recursos verificados.
 
-El proyecto de referencia en `D:\Projects\SMIGC` no es una dependencia y no se modifica. Todo el código, recursos, dependencias, datos y compilación del nuevo proyecto viven en `D:\Projects\SMIGC-redesign`.
-
 ## Ejecutar
 
 Requiere Node.js 22.12+ o 24 (verificado con 24.21.0). Las dependencias ya están instaladas en esta carpeta.
